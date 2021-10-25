@@ -63,4 +63,4 @@
   ## - Sample of created Dataset of Arabic letters used in project
   ![dataset](https://user-images.githubusercontent.com/29886682/110549340-96061780-813a-11eb-9600-d544477a7e64.png)
 
-# * Thanks
+# * Thanks *
